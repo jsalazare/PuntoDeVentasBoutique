@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PuntoDeVentasBoutique
 {
-    public partial class Principal : Form
+    public partial class Principal1 : Form
     {
-        public Principal()
+        public Principal1()
         {
             InitializeComponent();
         }

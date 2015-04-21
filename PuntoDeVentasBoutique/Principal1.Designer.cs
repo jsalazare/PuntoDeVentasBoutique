@@ -1,6 +1,6 @@
 ﻿namespace PuntoDeVentasBoutique
 {
-    partial class Principal
+    partial class Principal1
     {
         /// <summary>
         /// Required designer variable.
@@ -30,7 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Principal";
+            this.Text = "Principal1";
         }
 
         #endregion
