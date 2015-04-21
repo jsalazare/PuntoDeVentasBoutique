@@ -1,1 +1,2 @@
 c:\users\franciscojavier\documents\visual studio 2013\Projects\PuntoDeVentasBoutique\PuntoDeVentasBoutique\bin\Debug\PuntoDeVentasBoutique.exe.config
+C:\Users\dany__000\Documents\GitHub\PuntoDeVentasBoutique\PuntoDeVentasBoutique\bin\Debug\PuntoDeVentasBoutique.exe.config
